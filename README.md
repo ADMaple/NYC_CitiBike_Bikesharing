@@ -18,4 +18,4 @@ The number of total trips included in the dataset used for this analysis is 2,34
 
 
 
-https://public.tableau.com/shared/6TRHCF6JG?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/NYCCitiBikeAnalysis_16644213323750/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
